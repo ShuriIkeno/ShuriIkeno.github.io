@@ -1,0 +1,11 @@
+{
+  "/error-test/page": "app/error-test/page.js",
+  "/loading-test/page": "app/loading-test/page.js",
+  "/css-test/page": "app/css-test/page.js",
+  "/tailwind-test/page": "app/tailwind-test/page.js",
+  "/page": "app/page.js",
+  "/page-test/page": "app/page-test/page.js",
+  "/template-test/page": "app/template-test/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/layout-test/page": "app/layout-test/page.js"
+}
